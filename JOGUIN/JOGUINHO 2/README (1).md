@@ -1,1 +1,1 @@
-<a href=" https://mariyusurai.github.io/joguin/"> slides </a>
+<a href="https://mariyusurai.github.io/joguin/"> slides </a>
